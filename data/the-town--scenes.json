@@ -1,0 +1,551 @@
+{
+  "title": "The Town",
+  "scenes": [
+    {
+      "scene": 1,
+      "name": "Bank Robbery",
+      "startAt": "0m 00s",
+      "endAt": "7m 57s",
+      "description": "Action  Build anticipation:  Intense violin at beginning signaling something to come  \u201cHe\u2019s about to get robbed\u201d narration"
+    },
+    {
+      "scene": 2,
+      "name": "Crime Investigation",
+      "startAt": "7m 57s",
+      "endAt": "9m 41s",
+      "description": ""
+    },
+    {
+      "scene": 3,
+      "name": "Post Mortem at Rink",
+      "startAt": "9m 41s",
+      "endAt": "10m 53s",
+      "description": "\u201cWe got a problem\u201d - she\u2019s from Charlestown."
+    },
+    {
+      "scene": 4,
+      "name": "Girl FBI Interview",
+      "startAt": "10m 53s",
+      "endAt": "13m 52s",
+      "description": "Introduction to Ham and girl relationship."
+    },
+    {
+      "scene": 5,
+      "name": "Mikes Apartment weed pickup",
+      "startAt": "13m 52s",
+      "endAt": "15m 57s",
+      "description": "Intro to Florist - foreshadow conflict"
+    },
+    {
+      "scene": 6,
+      "name": "Florist Money Drop",
+      "startAt": "15m 57s",
+      "endAt": "16m 38s",
+      "description": "Fergy \u201cTrust me\u201d - foreshadow conflict"
+    },
+    {
+      "scene": 7,
+      "name": "Strip club",
+      "startAt": "16m 38s",
+      "endAt": "17m 30s",
+      "description": ""
+    },
+    {
+      "scene": 8,
+      "name": "Watering Hole",
+      "startAt": "17m 30s",
+      "endAt": "20m 03s",
+      "description": "Introduction of Chris  Backstory of father"
+    },
+    {
+      "scene": 9,
+      "name": "McCray Apartment",
+      "startAt": "20m 03s",
+      "endAt": "22m 05s",
+      "description": "They have sex."
+    },
+    {
+      "scene": 10,
+      "name": "Transition to AA meeting",
+      "startAt": "22m 05s",
+      "endAt": "23m 26s",
+      "description": "Eskimo joke  Melodic music introduced"
+    },
+    {
+      "scene": 11,
+      "name": "Cray follows girl to laundromat",
+      "startAt": "23m 26s",
+      "endAt": "26m 38s",
+      "description": ""
+    },
+    {
+      "scene": 12,
+      "name": "FBI raid on guy apartment",
+      "startAt": "26m 38s",
+      "endAt": "27m 58s",
+      "description": "Reveal info on crime"
+    },
+    {
+      "scene": 13,
+      "name": "First Date",
+      "startAt": "27m 58s",
+      "endAt": "32m 35s",
+      "description": "\u201cWhat do you know about bank robbers?\u201d"
+    },
+    {
+      "scene": 14,
+      "name": "Watering Hole",
+      "startAt": "32m 35s",
+      "endAt": "33m 40s",
+      "description": "\u201cRemove her from the equation.\u201d"
+    },
+    {
+      "scene": 15,
+      "name": "Sidewalk looking at bank wires",
+      "startAt": "33m 40s",
+      "endAt": "34m 06s",
+      "description": "\u201cGet a job at verracomm \u201d"
+    },
+    {
+      "scene": 16,
+      "name": "Restaurant FBI & Girl Date",
+      "startAt": "34m 06s",
+      "endAt": "36m 06s",
+      "description": "\u201cAm I a suspect?\u201d"
+    },
+    {
+      "scene": 17,
+      "name": "Cray & Girl in Car",
+      "startAt": "36m 06s",
+      "endAt": "38m 43s",
+      "description": "\u201cMy bank was robbed\u201d"
+    },
+    {
+      "scene": 18,
+      "name": "Visiting David in hospital",
+      "startAt": "38m 43s",
+      "endAt": "40m 00s",
+      "description": ""
+    },
+    {
+      "scene": 19,
+      "name": "Dunkin Donuts",
+      "startAt": "40m 00s",
+      "endAt": "41m 40s",
+      "description": "\u201cI saw tattoo\u201d"
+    },
+    {
+      "scene": 20,
+      "name": "By Cars date",
+      "startAt": "41m 40s",
+      "endAt": "42m 48s",
+      "description": "\u201cDo you remember what they look like?\u201d  Meaning the kids that threw bottles at her."
+    },
+    {
+      "scene": 21,
+      "name": "Cray friend apartment (check time)",
+      "startAt": "42m 48s",
+      "endAt": "43m 00s",
+      "description": "\u201cWe gonna hurt some people\u201d"
+    },
+    {
+      "scene": 22,
+      "name": "Kenny with the white nose apartment (check time)",
+      "startAt": "43m 00s",
+      "endAt": "44m 13s",
+      "description": "43m 30s - 44m 13s  \u201cWhat unit they in?\u201d"
+    },
+    {
+      "scene": 23,
+      "name": "Dominican Kid",
+      "startAt": "44m 13s",
+      "endAt": "46m 49s",
+      "description": "Good action."
+    },
+    {
+      "scene": 24,
+      "name": "Ride back Cray and friend",
+      "startAt": "46m 49s",
+      "endAt": "47m 09s",
+      "description": "\u201cCan\u2019t be killing people.\u201d"
+    },
+    {
+      "scene": 25,
+      "name": "FBI office",
+      "startAt": "47m 09s",
+      "endAt": "47m 47s",
+      "description": "\u201cHas interesting sick days.\u201d"
+    },
+    {
+      "scene": 26,
+      "name": "Girls Garden",
+      "startAt": "47m 47s",
+      "endAt": "50m 59s",
+      "description": "Crays mother left story."
+    },
+    {
+      "scene": 27,
+      "name": "BBQ backyard / FBI / Stakeout",
+      "startAt": "50m 59s",
+      "endAt": "53m 19s",
+      "description": "Run down of crew"
+    },
+    {
+      "scene": 28,
+      "name": "Harvard Square",
+      "startAt": "53m 19s",
+      "endAt": "57m 37s",
+      "description": "\u201cMy brother died on a day like this\u201d  Friends meets girl.  Tattoo peeks out."
+    },
+    {
+      "scene": 28,
+      "name": "Friends kitchen",
+      "startAt": "57m 37s",
+      "endAt": "59m 33s",
+      "description": "Conflict  Intro to next job to pull"
+    },
+    {
+      "scene": 30,
+      "name": "Jail to see father",
+      "startAt": "59m 33s",
+      "endAt": "64m 20s",
+      "description": "\u201cWhy did you never look for her?\u201d"
+    },
+    {
+      "scene": 31,
+      "name": "Rink",
+      "startAt": "64m 20s",
+      "endAt": "64m 40s",
+      "description": ""
+    },
+    {
+      "scene": 32,
+      "name": "Girl Apartment",
+      "startAt": "64m 40s",
+      "endAt": "66m 36s",
+      "description": "There relationship grows. A kiss. Then sex.  Repeat of nice music."
+    },
+    {
+      "scene": 33,
+      "name": "Barber shop",
+      "startAt": "66m 36s",
+      "endAt": "66m 49s",
+      "description": "Mention of Fenway park"
+    },
+    {
+      "scene": 34,
+      "name": "Get ready for next job montage",
+      "startAt": "66m 49s",
+      "endAt": "67m 19s",
+      "description": "Bullets loaded into gun. Anticipation of next job."
+    },
+    {
+      "scene": 35,
+      "name": "Next Job",
+      "startAt": "67m 19s",
+      "endAt": "74m 39s",
+      "description": ""
+    },
+    {
+      "scene": 36,
+      "name": "FBI Crime scene montage",
+      "startAt": "74m 39s",
+      "endAt": "75m 21s",
+      "description": "\u201cThis not fucking around thing is about to go both ways.\u201d"
+    },
+    {
+      "scene": 37,
+      "name": "Cray gets picked up at work",
+      "startAt": "75m 21s",
+      "endAt": "75m 48s",
+      "description": ""
+    },
+    {
+      "scene": 38,
+      "name": "FBI Interviews",
+      "startAt": "75m 48s",
+      "endAt": "81m 38s",
+      "description": "Cray meets Deno.  \u201cWe lifted a print off the van\u201d  \u201cYou are going to die in prison.\u201d"
+    },
+    {
+      "scene": 39,
+      "name": "FBI office ponders girl",
+      "startAt": "81m 38s",
+      "endAt": "82m 25s",
+      "description": "Finds out she left job"
+    },
+    {
+      "scene": 40,
+      "name": "Exterior Boston",
+      "startAt": "82m 25s",
+      "endAt": "85m 45s",
+      "description": "Cray gives her diamonds. Starting over with him."
+    },
+    {
+      "scene": 41,
+      "name": "FBI Office",
+      "startAt": "85m 45s",
+      "endAt": "86m 12s",
+      "description": "Cops recognize Crays voice on girls phone"
+    },
+    {
+      "scene": 42,
+      "name": "Girls Apartment",
+      "startAt": "86m 12s",
+      "endAt": "87m 35s",
+      "description": "FBI shows Crays photo and others"
+    },
+    {
+      "scene": 43,
+      "name": "Graveyard area",
+      "startAt": "87m 35s",
+      "endAt": "92m 22s",
+      "description": "Florist came through.  Cray says he\u2019s leaving. They fight.  Talk when Cray got saved by friend."
+    },
+    {
+      "scene": 44,
+      "name": "Florists",
+      "startAt": "92m 22s",
+      "endAt": "95m 18s",
+      "description": "Cray tries get out of job.  \u201cLike a clipped your Daddy\u2019s nuts\u201d  \u201cShe hung herself with a wire.\u201d  Fergie threatens girl"
+    },
+    {
+      "scene": 45,
+      "name": "Girls Apartment",
+      "startAt": "95m 18s",
+      "endAt": "96m 54s",
+      "description": "Girl cry and says get out."
+    },
+    {
+      "scene": 46,
+      "name": "Street in day",
+      "startAt": "96m 54s",
+      "endAt": "97m 21s",
+      "description": "Cray disappear into building"
+    },
+    {
+      "scene": 47,
+      "name": "Tracks",
+      "startAt": "97m 21s",
+      "endAt": "98m 23s",
+      "description": "He does drugs"
+    },
+    {
+      "scene": 48,
+      "name": "Street",
+      "startAt": "98m 23s",
+      "endAt": "98m 54s",
+      "description": "Cray see funeral flowers on front step. Fergy guy drives off. Foreshadowing"
+    },
+    {
+      "scene": 49,
+      "name": "Cris apartment with Shine",
+      "startAt": "98m 54s",
+      "endAt": "99m 48s",
+      "description": "\u201cTaking off for a while\u201d"
+    },
+    {
+      "scene": 50,
+      "name": "Flower shop",
+      "startAt": "99m 48s",
+      "endAt": "100m 16s",
+      "description": "\u201cI\u2019m in..\u201d"
+    },
+    {
+      "scene": 51,
+      "name": "Garden",
+      "startAt": "100m 16s",
+      "endAt": "101m 46s",
+      "description": "\u201cWait for me.\u201d"
+    },
+    {
+      "scene": 52,
+      "name": "Flower shop",
+      "startAt": "101m 46s",
+      "endAt": "102m 59s",
+      "description": "Fergy preps gang.  FBI staking it put."
+    },
+    {
+      "scene": 53,
+      "name": "Fenway Park",
+      "startAt": "102m 59s",
+      "endAt": "103m 37s",
+      "description": "\u201cIf it were easy kid, everybody would do em\u201d"
+    },
+    {
+      "scene": 54,
+      "name": "Bar interior",
+      "startAt": "103m 37s",
+      "endAt": "107m 37s",
+      "description": "FBI talks to Chris.  \u201cYou ever get diamonds\u201d  \u201cHow\u2019s it work?\u201d Pressures her."
+    },
+    {
+      "scene": 55,
+      "name": "Exterior street",
+      "startAt": "107m 37s",
+      "endAt": "108m 14s",
+      "description": "FBI woman plants geo tracker on van  Gang member drops some money.  Chris in place."
+    },
+    {
+      "scene": 56,
+      "name": "Cleaning guns interior",
+      "startAt": "108m 14s",
+      "endAt": "110m 11s",
+      "description": "\u201c50 lb mule\u201d"
+    },
+    {
+      "scene": 57,
+      "name": "FBI watch can",
+      "startAt": "110m 11s",
+      "endAt": "111m 00s",
+      "description": "\u201cCherokee in parking lot boosted\u201d  Wrong guy in van"
+    },
+    {
+      "scene": 58,
+      "name": "Hideout across from Fenway",
+      "startAt": "111m 00s",
+      "endAt": "113m 15s",
+      "description": "\u201cWhere\u2019d you hear about a necklace?\u201d"
+    },
+    {
+      "scene": 59,
+      "name": "Fenway hideout",
+      "startAt": "113m 15s",
+      "endAt": "113m 40s",
+      "description": "Inside hideout the guys get ready  They dressed as cops."
+    },
+    {
+      "scene": 60,
+      "name": "Exterior street",
+      "startAt": "113m 40s",
+      "endAt": "113m 59s",
+      "description": "Cop tells FBI Chris got in drunk driving accident  \u201cShe wanted me to call you\u201d"
+    },
+    {
+      "scene": 61,
+      "name": "Fenway",
+      "startAt": "113m 59s",
+      "endAt": "115m 57s",
+      "description": "Cray and buddy enter bowls of Fenway as cops.  Other buddy does electrical shit.  \u201cThere\u2019s the door. Remember you never saw me.\u201d  Slain dressed as EMT"
+    },
+    {
+      "scene": 62,
+      "name": "Hospital",
+      "startAt": "115m 57s",
+      "endAt": "117m 32s",
+      "description": "FBI pumps her for info.  \u201cAfter what?\u201d"
+    },
+    {
+      "scene": 63,
+      "name": "Fenway",
+      "startAt": "117m 32s",
+      "endAt": "123m 37s",
+      "description": "Cray and buddy make way down corridor.  Electrical guy does his thing. Cameras go down.  \u201cWho called 911?\u201d  Confrontation with security  They address cash room.  \u201cNo one\u2019s going to prison\u201d  They carry money to garage area. All quiet. Too quiet.  Meet up with EMTs  Cray feels uneasy. Looks outside and sees street swarming with cops."
+    },
+    {
+      "scene": 64,
+      "name": "Outside Fenway",
+      "startAt": "123m 37s",
+      "endAt": "123m 53s",
+      "description": "FBI arm themselves.  \u201cSir, no response from cash room\u201d"
+    },
+    {
+      "scene": 65,
+      "name": "Garage",
+      "startAt": "123m 53s",
+      "endAt": "129m 47s",
+      "description": "Gun shots. It\u2019s on.  They sneak out as cops."
+    },
+    {
+      "scene": 66,
+      "name": "Fenway exterior",
+      "startAt": "129m 47s",
+      "endAt": "124m 02s",
+      "description": "FBI spots Crays buddy. Firefight. He shot in head.  Cray takes coo car."
+    },
+    {
+      "scene": 67,
+      "name": "Flower shop",
+      "startAt": "124m 02s",
+      "endAt": "125m 11s",
+      "description": "He kills Fergy."
+    },
+    {
+      "scene": 68,
+      "name": "Fenway aftermath",
+      "startAt": "125m 11s",
+      "endAt": "125m 42s",
+      "description": "\u201cSomebody got Fergy\u201d"
+    },
+    {
+      "scene": 69,
+      "name": "Girl Apartment",
+      "startAt": "125m 42s",
+      "endAt": "128m 23s",
+      "description": "Cray watch across street.  \u201cMy brothers sunny days.\u201d"
+    },
+    {
+      "scene": 70,
+      "name": "Crays uncles apartment",
+      "startAt": "128m 23s",
+      "endAt": "128m 37s",
+      "description": "He gets mbta uniform"
+    },
+    {
+      "scene": 71,
+      "name": "Rooftops",
+      "startAt": "128m 37s",
+      "endAt": "129m 29s",
+      "description": "Cray makes exit.  FBI still at girls."
+    },
+    {
+      "scene": 72,
+      "name": "Girls Apartment",
+      "startAt": "129m 29s",
+      "endAt": "140m 57s",
+      "description": "Cray buries money  FBI leaves"
+    },
+    {
+      "scene": 73,
+      "name": "Cray at bus terminal",
+      "startAt": "140m 57s",
+      "endAt": "141m 13s",
+      "description": ""
+    },
+    {
+      "scene": 74,
+      "name": "FBI finds note on car",
+      "startAt": "141m 13s",
+      "endAt": "141m 54s",
+      "description": ""
+    },
+    {
+      "scene": 75,
+      "name": "Bus",
+      "startAt": "141m 54s",
+      "endAt": "142m 01s",
+      "description": ""
+    },
+    {
+      "scene": 76,
+      "name": "Garden",
+      "startAt": "142m 01s",
+      "endAt": "143m 16s",
+      "description": "She finds note and money.  Melodic music returns."
+    },
+    {
+      "scene": 77,
+      "name": "Rink",
+      "startAt": "143m 16s",
+      "endAt": "143m 47s",
+      "description": "Rink renovated"
+    },
+    {
+      "scene": 78,
+      "name": "Florida shack",
+      "startAt": "143m 47s",
+      "endAt": "144m 00s",
+      "description": "\u201cThis side or the other\u201d  Melodic music continues."
+    }
+  ]
+}
